@@ -6,6 +6,18 @@ This project is designed to enhance accessibility and environmental awareness by
 
 ---
 
+# 🎓 Academic Project Information
+
+This repository is part of my B.Tech Final Year Project and represents **Module 6 of 7** in the complete system.
+
+This module focuses on developing an AI-powered scene narration and environmental awareness assistant using computer vision and generative AI technologies.
+
+The system integrates Gemini AI, OpenCV, image processing, and text-to-speech technologies to provide intelligent real-time voice descriptions of surroundings for accessibility and assistive applications.
+
+The project demonstrates the practical implementation of artificial intelligence and real-time visual understanding in an accessibility-focused smart assistance system.
+
+---
+
 # 🚀 Features
 
 - 📷 Dual Camera Image Capture
@@ -181,18 +193,6 @@ Generated descriptions are spoken aloud using pyttsx3 for real-time audio narrat
 * ☁️ Cloud-Based AI Processing
 * 🧑 Face & Emotion Recognition
 * 🚨 Emergency Alert Detection
-
----
-
-# 🎓 Academic Project Information
-
-This repository is part of my B.Tech Final Year Project and represents **Module 6 of 7** in the complete system.
-
-This module focuses on developing an AI-powered scene narration and environmental awareness assistant using computer vision and generative AI technologies.
-
-The system integrates Gemini AI, OpenCV, image processing, and text-to-speech technologies to provide intelligent real-time voice descriptions of surroundings for accessibility and assistive applications.
-
-The project demonstrates the practical implementation of artificial intelligence and real-time visual understanding in an accessibility-focused smart assistance system.
 
 ---
 
